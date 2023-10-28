@@ -1,8 +1,8 @@
 ### Hi there, I'm Spas! 👋
 
 ## I'm a Student!
-- 🔭 I'm looking forward to learn more and more about the world!
-- 🌱 I’m currently learning to be Web Dev with Python!
+- 🔭 I'm looking forward to learn more and more!
+- 🌱 I’m currently studying to be Web Dev with Python!
 - 👯 If you can tell me or show me something that would catch my interest, you are free to call me!
 - ⚡ About me:
 -             - I love to go to the Gym, whenever i can, if it possible i will be everyday there
