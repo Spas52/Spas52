@@ -1,18 +1,17 @@
-### Hi there, I'm Spas! 👋
+# Hi there, I'm Spas! 👋
 
-## I'm a Student!
-- 🔭 I'm looking forward to learn more and more!
-- 🌱 I’m currently studying to be Web Dev with Python!
-- 👯 If you can tell me or show me something that would catch my interest, you are free to call me!
-- ⚡ About me:
--             - I love to go to the Gym, whenever i can, if it possible i will be everyday there
--             - watching animes, while eating 
--             - reading books, while I'm bored(pref Stephen King or something like his writing, horror)
--             - right now working as pizza delivery guy, always on time(depends who order the pizza)
--             
-- Advice from me: Reality is shit, find your reason to live and don't ever let it go!
+## About Me
+- 👨‍🎓 I'm a student, eager to learn and explore more every day.
+- 🌱 Currently, I'm on a journey to become a Web Developer with Python.
+- 👬 Feel free to reach out if you have something exciting to share or discuss!
+- 🏋️ I'm a fitness enthusiast, hitting the gym whenever I can.
+- 🍱 I enjoy watching anime, especially while indulging in some good food.
+- 📚 I'm a bookworm, with a preference for Stephen King and horror literature.
+- 🍕 By day, I'm a punctual pizza delivery guy (depends on the pizza order).
 
-### Connect with me:
-LinkedIn: https://www.linkedin.com/in/spas-mihaylov-452a32215/
+### Life Advice
+"Reality can be challenging, so find your reason to live, and never let it go!"
 
-Instagram: https://www.instagram.com/spas52/?hl=bg
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/spas-mihaylov-452a32215/)
+- [Instagram](https://www.instagram.com/spas52/?hl=bg)
