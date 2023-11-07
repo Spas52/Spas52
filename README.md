@@ -10,7 +10,7 @@
 - 🍕 By day, I'm a punctual pizza delivery guy (depends on the pizza order).
 
 ### Life Advice
-"Reality can be challenging, so find your reason to live, and never let it go!"
+"Reality is shit, so find your reason to live, and never let it go!"
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/spas-mihaylov-452a32215/)
