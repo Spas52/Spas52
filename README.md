@@ -1,7 +1,7 @@
 # Hi there, I'm Spas! 👋
 
 ## About Me
-- 👨‍🎓 I'm a student, eager to learn and explore more every day.
+- 👨‍🎓 I just graduated from SoftUni University and am now open to work.
 - 🌱 Currently, I'm on a journey to become a Web Developer.
 - 👬 Feel free to reach out if you have something exciting to share or discuss!
 - 🏋️ I'm a gym rat, hitting the gym whenever I can.
